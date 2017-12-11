@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+ <head>
+    <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-wodth, initial-scale=1">
+     <meta name="description" cotent="An app to fight hate and discrimination">  <title>THE APP</title>
+      <link rel="stylesheet" href="stile.css">  
+      </head>
+           <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">   
+            <header class="header clearfix">
+  <ul class="header_menu clearfix">
+      <li class="header_menu_item"><a href="Home.html">HOME</a></li>
+      <li class="header_menu_item"><a href="About.html"> ABOUT</a> </li>
+      <li class="header_menu_item"><a href="TheApp.html">THE APP</a> </li>
+      <li class="header_menu_item"><a href="Resources.html" >RESOURCES</a> </li>
+      <li class="header_menu_item"><a href="Contact us.html" >CONTACT US</a> </li>
+         </ul>
+              
+        </header>
+    
+    <body>
+    
+    <img src="./images/THE APP.png" style="width: 100%; background-color: ">
+    
+    </body>
+</html>
